@@ -25,6 +25,10 @@ button {
   border-radius: 7px;
 }
 
+footer {
+  margin-left: 90px;
+}
+
 .weather-details {
   display: inline;
   padding-inline-start: 10px;
