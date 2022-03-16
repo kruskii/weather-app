@@ -1,0 +1,86 @@
+body {
+  font-family: "Zen Kaku Gothic New", sans-serif;
+  background: #50c4ed;
+  margin: 25px 0 80px;
+}
+h2 {
+  color: #387adf;
+  display: inline-block;
+  padding-top: 10px;
+  padding-inline-start: 10px;
+  font-weight: 400;
+}
+
+h3 {
+  display: inline;
+  padding-inline-start: 370px;
+  font-size: 20px;
+  color: #fba834;
+  font-weight: 700;
+}
+
+button {
+  border-width: 1px;
+  border-style: outset;
+  border-radius: 7px;
+}
+
+.weather-details {
+  display: inline;
+  padding-inline-start: 10px;
+}
+
+.weather-details-time {
+  padding: 0 10px;
+}
+
+.fa-search {
+  color: #fff;
+}
+
+.icon-cw {
+  width: 200px;
+  margin: 20px;
+}
+
+.form-control {
+  position: relative;
+  top: 2px;
+  width: 30%;
+  display: inline-block;
+}
+
+.bkg-image {
+  width: 100px;
+}
+
+.daylabels {
+  padding-inline-start: 10px;
+  color: #50c4ed;
+}
+
+.fd-temp {
+  display: inline-block;
+  font-size: 14px;
+}
+
+.weather-card {
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%);
+  margin: 15px 0 0;
+  max-width: 630px;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.city {
+  font-weight: 700;
+}
+
+.temp {
+  font-weight: 400;
+}
+
+.last-update {
+  padding-inline-start: 90px;
+  color: #fff;
+}
